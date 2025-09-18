@@ -1,0 +1,60 @@
+ *,body{   
+   margin :0px;
+   padding: 0px;
+   overflow-x: hidden ;
+   border: none;
+   overflow: hidden;
+   font-family: "Plus Jakarta Sans", sans-serif;
+   font-optical-sizing: auto;
+   font-style: normal;
+   
+}
+.navbar{
+  height:67px;
+  width:100%;
+  border: 1px solid black;
+
+}
+.logo{
+    height:inherit;
+    width:12%;
+    display: inline-block;
+}
+.navbar>.logo>.Sumip{
+    height:inherit;
+    width:inherit;
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 45px;
+    position: relative;
+    top:16px;
+}
+.navbar>.content{
+    display: inline-block;
+    height:inherit;
+    width:70%;
+    border:1px solid black;
+    margin-left: 8%;
+
+}
+.main-nav{
+    list-style-type: none;
+    height:inherit;
+    align-items: center;
+    align-content: center;
+    margin-left: 104px;
+    
+}
+.nav-links{
+    display: inline;
+    margin-left: 24px;
+    
+}
+.list{
+     background-color: rgb(171, 171, 95);
+    outline-style: none;
+    height: 31px;
+    padding: 7px;
+    width: inherit;
+    border-radius: 24px;
+}
