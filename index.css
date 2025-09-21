@@ -142,7 +142,7 @@
      background-color: rgb(241, 237, 237);
      border-radius: 24px;
      overflow-y: hidden;
-     margin-left: 40%;
+     margin-left: 33%;
 
 
 
@@ -173,7 +173,7 @@
 
  .center-button {
      position: relative;
-     left: 45%;
+     left: 39%;
      width: 136px;
  }
 
@@ -188,19 +188,19 @@
 
  .upper-center {
      position: relative;
-     left: 118px;
+     left: 61px;
 
  }
 
  .subtext {
      font-size: smaller;
-     margin-left: 35%;
+     margin-left: 28%;
  }
 
  .subtext2 {
      font-size: smaller;
-     margin-left: 480px;
-     margin-top: 4px;
+     margin-left: 463px;
+     margin-top: -50px;
  }
 
  /* .text{
