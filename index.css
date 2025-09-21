@@ -12,7 +12,7 @@
  }
 
  body {
-     background-color: rgb(220, 214, 220);
+     background-color: rgb(215, 179, 215);
  }
 
  .navbar {
@@ -197,24 +197,25 @@
      margin-left: 35%;
  }
 
-.subtext2{
-    font-size: smaller;
-    margin-left: 480px;
-} 
+ .subtext2 {
+     font-size: smaller;
+     margin-left: 480px;
+     margin-top: 4px;
+ }
+
  /* .text{
     position: relative;
     top:5px;
     margin-left:  ;
 } */
- /* .arrow{
-    height:18px;
-    width:18px ;
-    border-radius: 5%;
-    background-color: black;
-    
-    
+ /* .arrow {
+     height: 18px;
+     width: 18px;
+     border-radius: 5%;
+     background-color: black;
 
  } */
+
  .images {
      height: 300px;
      width: 100%;
